@@ -1,0 +1,11 @@
+Name,Media,Flask size [ml],Filling volume [ml],Shaking rate [rpm],OD600,Gly [g/l],BMdur[h],BMdata,O2dur[h],O2data
+LB-250ml-1,LB,250,40,180,0.109,-,6.3,lb250_1_bm.csv,4.5,lb250_1_o2.csv
+LB-250ml-2,LB,250,40,180,0.109,-,6.3,lb250_2_bm.csv,4.5,lb250_2_o2.csv
+LB-500ml-1,LB,500,80,200,0.128,-,8,lb500_1_bm.csv,4.5,lb500_1_o2.csv
+LB-500ml-2,LB,500,80,200,0.130,-,8,lb500_2_bm.csv,4.5,lb500_2_o2.csv
+TB-500ml-1,TB,500,50,200,0.075,5.41,-,-,-,-
+TB-500ml-2,TB,500,50,200,0.079,5.48,-,-,-,-
+TB-500ml-3,TB,500,50,200,0.074,5.43,10,tb500_3_bm.csv,4.5,tb500_3_o2.csv
+TB-500ml-4,TB,500,50,200,0.076,5.45,10,tb500_4_bm.csv,4.5,tb500_4_o2.csv
+TB-500ml-5,TB,500,80,200,0.122,5.21,10,tb500_5_bm.csv,4.5,tb500_5_o2.csv
+TB-500ml-6,TB,500,80,200,0.116,5.26,10,tb500_6_bm.csv,4.5,tb500_6_o2.csv
