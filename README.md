@@ -2,6 +2,8 @@
 The code below illustrates how the particle filter (PF) implementation in module gmplgpf.py can be used to model biomass growth. The demo data consists of biomass measured in a shake flask experiment. This notebook is provided as supplement to "Critical Event Prediction for Shake Flask Cultivation by Sequential Importance Sampling of Gompertz and Logistic Growth Models",
 B. Pretzner, R. W. Maschke, C. Haiderer, G. T. John, C. Herwig and P. Sykacek. Correspondence should be addressed to <barbara.pretzner@koerber-pharma.com> and <peter.sykacek@boku.ac.at>
 
+## This repository is read only
+
 (C) P. Sykacek 2021 <peter@sykacek.net>
 
 ## Installation of gmplgpf.py and dependencies
